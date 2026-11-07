@@ -1,0 +1,8 @@
+Algorithm: Maximum of Three Numbers
+
+Step 1: Start
+Step 2: Read three numbers A, B, C
+Step 3: If A >= B and A >= C, print A
+Step 4: Else if B >= A and B >= C, print B
+Step 5: Else print C
+Step 6: Stop
